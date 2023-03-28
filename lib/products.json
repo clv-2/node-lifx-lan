@@ -608,7 +608,17 @@
 					"infrared": true,
 					"multizone": false
 				}
-			}
+			},
+			{
+				"pid": 93,
+				"name": "LIFX A19",
+				"features": {
+					"color": true,
+					"chain": false,
+					"infrared": false,
+					"multizone": false
+				}
+			}	
 		]
 	}
 ]
